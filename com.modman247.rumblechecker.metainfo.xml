@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.modman247.rumblechecker</id>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>MIT</project_license>
+  <name>Rumble Checker</name>
+  <summary>Check and test rumble devices</summary>
+  <description>
+    <p>Rumble Checker is a utility for testing rumble/haptic devices.</p>
+  </description>
+  <launchable type="desktop-id">com.modman247.rumblechecker.desktop</launchable>
+  <url type="homepage">https://github.com/modman247/rumblechecker</url>
+  <developer id="com.modman247">modman247</developer>
+  <categories>
+    <category>Utility</category>
+  </categories>
+  <keywords>
+    <keyword>rumble</keyword>
+    <keyword>haptic</keyword>
+    <keyword>gamepad</keyword>
+    <keyword>controller</keyword>
+  </keywords>
+  <releases>
+    <release version="3" date="2026-11-01">
+      <description>
+        <p>Initial Flathub release.</p>
+      </description>
+    </release>
+  </releases>
+  <screenshots>
+    <screenshot type="default">
+      <image type="source">https://raw.githubusercontent.com/modman247/rumblechecker/main/screenshots/main.png</image>
+      <caption>Main window</caption>
+    </screenshot>
+  </screenshots>
+  <content_rating type="oars-1.1">
+    <content_attribute id="violence-cartoon">none</content_attribute>
+    <content_attribute id="violence-fantasy">none</content_attribute>
+    <content_attribute id="violence-realistic">none</content_attribute>
+    <content_attribute id="violence-bloodshed">none</content_attribute>
+    <content_attribute id="drugs-alcohol">none</content_attribute>
+    <content_attribute id="drugs-narcotics">none</content_attribute>
+    <content_attribute id="drugs-tobacco">none</content_attribute>
+    <content_attribute id="sex-nudity">none</content_attribute>
+    <content_attribute id="sex-themes">none</content_attribute>
+    <content_attribute id="language-profanity">none</content_attribute>
+    <content_attribute id="language-humor">none</content_attribute>
+    <content_attribute id="language-discrimination">none</content_attribute>
+    <content_attribute id="theme-sexual">none</content_attribute>
+    <content_attribute id="money-gambling">none</content_attribute>
+    <content_attribute id="money-attributes">none</content_attribute>
+    <content_attribute id="social-chat">none</content_attribute>
+    <content_attribute id="social-info">none</content_attribute>
+    <content_attribute id="social-audio">none</content_attribute>
+    <content_attribute id="social-location">none</content_attribute>
+    <content_attribute id="social-contacts">none</content_attribute>
+    <content_attribute id="social-news">none</content_attribute>
+    <content_attribute id="usability-accessibility">none</content_attribute>
+    <content_attribute id="usability-custom">none</content_attribute>
+    <content_attribute id="usability-esports">none</content_attribute>
+    <content_attribute id="usability-interactive">none</content_attribute>
+    <content_attribute id="usability-networking">none</content_attribute>
+    <content_attribute id="usability-persistence">none</content_attribute>
+    <content_attribute id="usability-results">none</content_attribute>
+    <content_attribute id="usability-virtualcurrency">none</content_attribute>
+  </content_rating>
+</component>

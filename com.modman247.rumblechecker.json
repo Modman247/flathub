@@ -8,7 +8,7 @@
         "--env=PYTHONPATH=/app/lib/python3.13/site-packages",
         "--share=ipc",
         "--socket=wayland",
-        "--socket=fallback-x11",
+        "--socket=x11",
         "--socket=pulseaudio",
         "--device=input",
         "--device=dri",
